@@ -1,0 +1,12 @@
+nodes
+
+tasks
+55
+cpu-per-task
+
+mem-per-cpu
+2048
+mem
+
+/work/users/cini/PLASIM-LD/AMOC_LD_amoc_pos_changeco2y12_ntraj50_k0_LBlock360_p1_startIDl207-y2480_r2
+/var/spool/slurm/slurmd/job1237183/slurm_script: line 454: syntax error: unexpected end of file

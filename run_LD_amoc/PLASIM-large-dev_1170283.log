@@ -1,0 +1,24 @@
+nodes
+
+tasks
+6
+cpu-per-task
+
+mem-per-cpu
+2048
+mem
+
+/work/users/cini/PLASIM-LD/AMOC_LD_amoc_pos_changeco2_0y0_ntraj5_k0_LBlock360_p1_startIDl207-y2490_r2
+2024-03-18 18:24:11 started creating folders
+2024-03-18 18:24:20 finished creating folders
+WARNING: missing plasim restart, using standard initial condition
+WARNING: missing lsg restart, using standard initial condition
+WARNING: missing plasim restart, using standard initial condition
+WARNING: missing lsg restart, using standard initial condition
+WARNING: missing plasim restart, using standard initial condition
+WARNING: missing lsg restart, using standard initial condition
+WARNING: missing plasim restart, using standard initial condition
+WARNING: missing lsg restart, using standard initial condition
+WARNING: missing plasim restart, using standard initial condition
+WARNING: missing lsg restart, using standard initial condition
+/var/spool/slurm/slurmd/job1170283/slurm_script: line 244: 1200 % 0: division by 0 (error token is "0")

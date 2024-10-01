@@ -1,0 +1,14 @@
+nodes
+
+tasks
+6
+cpu-per-task
+
+mem-per-cpu
+2048
+mem
+
+/work/users/cini/PLASIM-LD/AMOC_LD_amoc_pos_changeco2_0y0_ntraj5_k0_LBlock360_p1_startIDl207-y2490_r2
+2024-03-18 18:28:05 started creating folders
+2024-03-18 18:28:12 finished creating folders
+/var/spool/slurm/slurmd/job1170293/slurm_script: line 245: 1200 % 0: division by 0 (error token is "0")

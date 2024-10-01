@@ -1,0 +1,193 @@
+nodes
+
+tasks
+55
+cpu-per-task
+
+mem-per-cpu
+2048
+mem
+
+/work/users/cini/PLASIM-LD/AMOC_LD_amoc_pos_changeco2y12_ntraj50_k0_LBlock360_p1_startIDl207-y2480_r2
+2024-04-08 15:45:08 finished creating folders
+2024-04-08 15:45:08 started running block 120
+2024-04-08 15:45:08 started running batch 1 of block 120
+slurmstepd-tintin: error: *** JOB 1237229 ON tintin CANCELLED AT 2024-04-08T15:47:23 ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+most_plasim_t21_l  000000000054A1FB  Unknown               Unknown  Unknown
+libpthread-2.31.s  00007F4F32E9D140  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000419C32  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000412A27  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000442DB6  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000434F5E  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042ACE9  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004038A2  Unknown               Unknown  Unknown
+libc-2.31.so       00007F4F32CD9D0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004037AA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+most_plasim_t21_l  000000000054A1FB  Unknown               Unknown  Unknown
+libpthread-2.31.s  00007F3C9625D140  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004057B1  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000045320F  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000434F54  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042ACE9  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004038A2  Unknown               Unknown  Unknown
+libc-2.31.so       00007F3C96099D0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004037AA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+most_plasim_t21_l  000000000054A1FB  Unknown               Unknown  Unknown
+libpthread-2.31.s  00007F8B063D4140  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000469115  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000443F47  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000434F5E  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042ACE9  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004038A2  Unknown               Unknown  Unknown
+libc-2.31.so       00007F8B06210D0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004037AA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+most_plasim_t21_l  000000000054A1FB  Unknown               Unknown  Unknown
+libpthread-2.31.s  00007F11D5E74140  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000492C27  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000048F09A  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000442D58  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000434F5E  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042ACE9  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004038A2  Unknown               Unknown  Unknown
+libc-2.31.so       00007F11D5CB0D0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004037AA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+most_plasim_t21_l  000000000054A1FB  Unknown               Unknown  Unknown
+libpthread-2.31.s  00007F7A1E9CC140  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000046CE6D  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000452B2C  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000434F54  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042ACE9  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004038A2  Unknown               Unknown  Unknown
+libc-2.31.so       00007F7A1E808D0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004037AA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+most_plasim_t21_l  000000000054A1FB  Unknown               Unknown  Unknown
+libpthread-2.31.s  00007FA71FED5140  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000041E89F  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004129CF  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000442DB6  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000434F5E  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042ACE9  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004038A2  Unknown               Unknown  Unknown
+libc-2.31.so       00007FA71FD11D0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004037AA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+most_plasim_t21_l  000000000054A1FB  Unknown               Unknown  Unknown
+libpthread-2.31.s  00007F82EA7FB140  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004056EB  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000444302  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000434F5E  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042ACE9  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004038A2  Unknown               Unknown  Unknown
+libc-2.31.so       00007F82EA637D0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004037AA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+most_plasim_t21_l  000000000054A1FB  Unknown               Unknown  Unknown
+libpthread-2.31.s  00007FC61E24A140  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000493955  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000048F09A  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000442D58  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000434F5E  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042ACE9  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004038A2  Unknown               Unknown  Unknown
+libc-2.31.so       00007FC61E086D0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004037AA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+most_plasim_t21_l  000000000054A1FB  Unknown               Unknown  Unknown
+libpthread-2.31.s  00007F810060C140  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000005335E5  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000005395B0  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000005370F3  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004BE86C  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004AD691  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004A9066  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000442E14  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000434F5E  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042ACE9  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004038A2  Unknown               Unknown  Unknown
+libc-2.31.so       00007F8100448D0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004037AA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+most_plasim_t21_l  000000000054A1FB  Unknown               Unknown  Unknown
+libpthread-2.31.s  00007F3FD3BED140  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000052E3F7  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000053EE6D  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000508F6C  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000507682  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000005032FD  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000005370CF  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004BE86C  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004AD691  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004A9066  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000442E14  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000434F5E  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042ACE9  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004038A2  Unknown               Unknown  Unknown
+libc-2.31.so       00007F3FD3A29D0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004037AA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+most_plasim_t21_l  000000000054A1FB  Unknown               Unknown  Unknown
+libpthread-2.31.s  00007F6120961140  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000052E44A  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000053B478  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000508DF0  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000507682  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000005032FD  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000005370CF  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004BE86C  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004AD691  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004A9066  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000442E14  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000434F5E  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042ACE9  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004038A2  Unknown               Unknown  Unknown
+libc-2.31.so       00007F612079DD0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004037AA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+most_plasim_t21_l  000000000054A1FB  Unknown               Unknown  Unknown
+libpthread-2.31.s  00007F007796F140  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000040C83D  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000440B57  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000043AC23  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000435457  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042ACE9  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004038A2  Unknown               Unknown  Unknown
+libc-2.31.so       00007F00777ABD0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004037AA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+most_plasim_t21_l  000000000054A1FB  Unknown               Unknown  Unknown
+libpthread-2.31.s  00007F6D315A2140  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000056C2D9  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000056B108  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000050ACD4  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000508D55  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000507682  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000005032FD  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000005370CF  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004BE86C  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004AD691  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004A9066  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000442E14  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000434F5E  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042ACE9  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004038A2  Unknown               Unknown  Unknown
+libc-2.31.so       00007F6D313DED0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004037AA  Unknown               Unknown  Unknown

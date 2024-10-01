@@ -1,0 +1,707 @@
+nodes
+
+tasks
+6
+cpu-per-task
+
+mem-per-cpu
+2048
+mem
+
+/work/users/cini/PLASIM-LD/AMOC_LD_amoc_pos_changeco2_0y1_ntraj5_k0_LBlock360_p1_startIDl207-y2490_r2
+2024-03-19 10:49:13 started creating folders
+2024-03-19 10:49:21 finished creating folders
+2024-03-19 10:49:22 started running block 1400
+2024-03-19 10:49:22 started running batch 1 of block 1400
+2024-03-19 10:51:08 finished running batch 1 of block 1400
+2024-03-19 10:51:08 started organizing output for batch 1 of block 1400
+2024-03-19 10:51:08 finished organizing output for batch 1 of block 1400
+2024-03-19 10:51:08 started extracting control observable for batch 1 of block 1400
+2024-03-19 10:51:08 finished extracting control observable for batch 1 of block 1400
+15.1164
+14.9727
+14.977
+14.7334
+15.1441
+[1. 1. 1. 1. 1.]
+light mode on
+cdo    ensmean: Processed 78468480 values from 150 variables over 60 timesteps [2.48s 452MB].
+cdo    ensmean: Processed 11304960 values from 250 variables over 60 timesteps [0.84s 144MB].
+cdo    ensmean: Processed 2949120 values from 120 variables over 60 timesteps [0.17s 84MB].
+cdo    ensmean: Processed 1228800 values from 50 variables over 60 timesteps [0.08s 67MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.43s 99MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.16s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.38s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.13s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.13s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 98MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.17s 63MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.40s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.15s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+2024-03-19 10:51:21 started running block 1401
+2024-03-19 10:51:21 started running batch 1 of block 1401
+2024-03-19 10:53:07 finished running batch 1 of block 1401
+2024-03-19 10:53:07 started organizing output for batch 1 of block 1401
+2024-03-19 10:53:07 finished organizing output for batch 1 of block 1401
+2024-03-19 10:53:07 started extracting control observable for batch 1 of block 1401
+2024-03-19 10:53:07 finished extracting control observable for batch 1 of block 1401
+14.133
+14.8191
+15.0717
+14.7304
+14.807
+[1. 1. 1. 1. 1.]
+light mode on
+cdo    ensmean: Processed 78468480 values from 150 variables over 60 timesteps [2.51s 451MB].
+cdo    ensmean: Processed 11304960 values from 250 variables over 60 timesteps [0.85s 144MB].
+cdo    ensmean: Processed 2949120 values from 120 variables over 60 timesteps [0.18s 85MB].
+cdo    ensmean: Processed 1228800 values from 50 variables over 60 timesteps [0.08s 67MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.38s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.12s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.10s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.04s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.11s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.43s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.17s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.38s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.12s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+2024-03-19 10:53:19 started running block 1402
+2024-03-19 10:53:19 started running batch 1 of block 1402
+2024-03-19 10:55:05 finished running batch 1 of block 1402
+2024-03-19 10:55:05 started organizing output for batch 1 of block 1402
+2024-03-19 10:55:05 finished organizing output for batch 1 of block 1402
+2024-03-19 10:55:05 started extracting control observable for batch 1 of block 1402
+2024-03-19 10:55:05 finished extracting control observable for batch 1 of block 1402
+14.4903
+14.4004
+14.4427
+14.3834
+14.32
+[1. 1. 1. 1. 1.]
+light mode on
+cdo    ensmean: Processed 78468480 values from 150 variables over 60 timesteps [2.52s 451MB].
+cdo    ensmean: Processed 11304960 values from 250 variables over 60 timesteps [0.85s 143MB].
+cdo    ensmean: Processed 2949120 values from 120 variables over 60 timesteps [0.18s 84MB].
+cdo    ensmean: Processed 1228800 values from 50 variables over 60 timesteps [0.07s 67MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.16s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 95MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.16s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.16s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.14s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.37s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.09s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+2024-03-19 10:55:18 started running block 1403
+2024-03-19 10:55:18 started running batch 1 of block 1403
+2024-03-19 10:57:02 finished running batch 1 of block 1403
+2024-03-19 10:57:02 started organizing output for batch 1 of block 1403
+2024-03-19 10:57:02 finished organizing output for batch 1 of block 1403
+2024-03-19 10:57:02 started extracting control observable for batch 1 of block 1403
+2024-03-19 10:57:02 finished extracting control observable for batch 1 of block 1403
+14.2308
+14.1423
+13.6951
+13.6964
+14.2067
+[1. 1. 1. 1. 1.]
+light mode on
+cdo    ensmean: Processed 78468480 values from 150 variables over 60 timesteps [2.52s 451MB].
+cdo    ensmean: Processed 11304960 values from 250 variables over 60 timesteps [0.84s 144MB].
+cdo    ensmean: Processed 2949120 values from 120 variables over 60 timesteps [0.22s 84MB].
+cdo    ensmean: Processed 1228800 values from 50 variables over 60 timesteps [0.07s 67MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.40s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.09s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.39s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.16s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.39s 95MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.10s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.39s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.14s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.34s 97MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.12s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+2024-03-19 10:57:15 started running block 1404
+2024-03-19 10:57:15 started running batch 1 of block 1404
+2024-03-19 10:58:59 finished running batch 1 of block 1404
+2024-03-19 10:58:59 started organizing output for batch 1 of block 1404
+2024-03-19 10:58:59 finished organizing output for batch 1 of block 1404
+2024-03-19 10:58:59 started extracting control observable for batch 1 of block 1404
+2024-03-19 10:58:59 finished extracting control observable for batch 1 of block 1404
+13.2119
+14.1637
+13.6713
+13.3731
+13.5533
+[1. 1. 1. 1. 1.]
+light mode on
+cdo    ensmean: Processed 78468480 values from 150 variables over 60 timesteps [2.52s 451MB].
+cdo    ensmean: Processed 11304960 values from 250 variables over 60 timesteps [0.84s 144MB].
+cdo    ensmean: Processed 2949120 values from 120 variables over 60 timesteps [0.18s 84MB].
+cdo    ensmean: Processed 1228800 values from 50 variables over 60 timesteps [0.07s 66MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.37s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.13s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.43s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.13s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 99MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.16s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 99MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.16s 63MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.41s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.13s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+2024-03-19 10:59:12 started running block 1405
+2024-03-19 10:59:12 started running batch 1 of block 1405
+2024-03-19 11:00:59 finished running batch 1 of block 1405
+2024-03-19 11:00:59 started organizing output for batch 1 of block 1405
+2024-03-19 11:00:59 finished organizing output for batch 1 of block 1405
+2024-03-19 11:00:59 started extracting control observable for batch 1 of block 1405
+2024-03-19 11:00:59 finished extracting control observable for batch 1 of block 1405
+12.6719
+13.5741
+12.9901
+13.0219
+13.1215
+[1. 1. 1. 1. 1.]
+light mode on
+cdo    ensmean: Processed 78468480 values from 150 variables over 60 timesteps [2.50s 451MB].
+cdo    ensmean: Processed 11304960 values from 250 variables over 60 timesteps [0.84s 144MB].
+cdo    ensmean: Processed 2949120 values from 120 variables over 60 timesteps [0.18s 84MB].
+cdo    ensmean: Processed 1228800 values from 50 variables over 60 timesteps [0.08s 67MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.33s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.13s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.39s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.16s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.39s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.13s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.33s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.17s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.44s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.16s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.03s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+2024-03-19 11:01:11 started running block 1406
+2024-03-19 11:01:11 started running batch 1 of block 1406
+2024-03-19 11:02:59 finished running batch 1 of block 1406
+2024-03-19 11:02:59 started organizing output for batch 1 of block 1406
+2024-03-19 11:02:59 finished organizing output for batch 1 of block 1406
+2024-03-19 11:02:59 started extracting control observable for batch 1 of block 1406
+2024-03-19 11:02:59 finished extracting control observable for batch 1 of block 1406
+11.6846
+12.6758
+12.0014
+12.6437
+12.8735
+[1. 1. 1. 1. 1.]
+light mode on
+cdo    ensmean: Processed 78468480 values from 150 variables over 60 timesteps [2.49s 451MB].
+cdo    ensmean: Processed 11304960 values from 250 variables over 60 timesteps [0.85s 143MB].
+cdo    ensmean: Processed 2949120 values from 120 variables over 60 timesteps [0.18s 84MB].
+cdo    ensmean: Processed 1228800 values from 50 variables over 60 timesteps [0.07s 67MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.38s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.12s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.37s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.17s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.38s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.14s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.16s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.39s 95MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.12s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+2024-03-19 11:03:11 started running block 1407
+2024-03-19 11:03:11 started running batch 1 of block 1407
+2024-03-19 11:05:00 finished running batch 1 of block 1407
+2024-03-19 11:05:00 started organizing output for batch 1 of block 1407
+2024-03-19 11:05:00 finished organizing output for batch 1 of block 1407
+2024-03-19 11:05:00 started extracting control observable for batch 1 of block 1407
+2024-03-19 11:05:00 finished extracting control observable for batch 1 of block 1407
+10.7506
+11.8059
+11.1804
+11.97
+12.333
+[1. 1. 1. 1. 1.]
+light mode on
+cdo    ensmean: Processed 78468480 values from 150 variables over 60 timesteps [2.55s 451MB].
+cdo    ensmean: Processed 11304960 values from 250 variables over 60 timesteps [0.85s 144MB].
+cdo    ensmean: Processed 2949120 values from 120 variables over 60 timesteps [0.18s 84MB].
+cdo    ensmean: Processed 1228800 values from 50 variables over 60 timesteps [0.08s 67MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.43s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.16s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.44s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.13s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.39s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.12s 62MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.43s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.12s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.43s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.12s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+2024-03-19 11:05:12 started running block 1408
+2024-03-19 11:05:12 started running batch 1 of block 1408
+2024-03-19 11:07:00 finished running batch 1 of block 1408
+2024-03-19 11:07:00 started organizing output for batch 1 of block 1408
+2024-03-19 11:07:00 finished organizing output for batch 1 of block 1408
+2024-03-19 11:07:00 started extracting control observable for batch 1 of block 1408
+2024-03-19 11:07:00 finished extracting control observable for batch 1 of block 1408
+10.0719
+10.9735
+10.2967
+11.1652
+11.195
+[1. 1. 1. 1. 1.]
+light mode on
+cdo    ensmean: Processed 78468480 values from 150 variables over 60 timesteps [2.50s 451MB].
+cdo    ensmean: Processed 11304960 values from 250 variables over 60 timesteps [0.84s 144MB].
+cdo    ensmean: Processed 2949120 values from 120 variables over 60 timesteps [0.18s 85MB].
+cdo    ensmean: Processed 1228800 values from 50 variables over 60 timesteps [0.08s 67MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.17s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.37s 98MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.13s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.16s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.43s 97MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.12s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.16s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+2024-03-19 11:07:12 started running block 1409
+2024-03-19 11:07:12 started running batch 1 of block 1409
+2024-03-19 11:09:01 finished running batch 1 of block 1409
+2024-03-19 11:09:01 started organizing output for batch 1 of block 1409
+2024-03-19 11:09:01 finished organizing output for batch 1 of block 1409
+2024-03-19 11:09:01 started extracting control observable for batch 1 of block 1409
+2024-03-19 11:09:02 finished extracting control observable for batch 1 of block 1409
+9.75789
+10.3945
+10.0703
+10.0829
+10.5365
+[1. 1. 1. 1. 1.]
+light mode on
+cdo    ensmean: Processed 78468480 values from 150 variables over 60 timesteps [2.51s 451MB].
+cdo    ensmean: Processed 11304960 values from 250 variables over 60 timesteps [0.85s 144MB].
+cdo    ensmean: Processed 2949120 values from 120 variables over 60 timesteps [0.18s 85MB].
+cdo    ensmean: Processed 1228800 values from 50 variables over 60 timesteps [0.07s 67MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 98MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.13s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.33s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.10s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.42s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.11s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.39s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.12s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.37s 97MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.13s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+2024-03-19 11:09:14 started running block 1410
+2024-03-19 11:09:14 started running batch 1 of block 1410
+2024-03-19 11:10:56 finished running batch 1 of block 1410
+2024-03-19 11:10:56 started organizing output for batch 1 of block 1410
+2024-03-19 11:10:57 finished organizing output for batch 1 of block 1410
+2024-03-19 11:10:57 started extracting control observable for batch 1 of block 1410
+2024-03-19 11:10:57 finished extracting control observable for batch 1 of block 1410
+9.79672
+9.73103
+9.86329
+9.72004
+10.2483
+[1. 1. 1. 1. 1.]
+light mode on
+cdo    ensmean: Processed 78468480 values from 150 variables over 60 timesteps [2.58s 451MB].
+cdo    ensmean: Processed 11304960 values from 250 variables over 60 timesteps [0.86s 143MB].
+cdo    ensmean: Processed 2949120 values from 120 variables over 60 timesteps [0.18s 84MB].
+cdo    ensmean: Processed 1228800 values from 50 variables over 60 timesteps [0.08s 67MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.45s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.18s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.44s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.17s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.43s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.16s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.33s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.17s 60MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 53MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 53MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 8733312 values from 30 variables over 12 timesteps.
+cdo    sellevel: Processed 1181952 values from 8 variables over 12 timesteps [0.41s 96MB].
+cdo(1) selname: Process started
+cdo(1) selname: Processed 688128 values from 50 variables over 12 timesteps.
+cdo    sellevel: Processed 245760 values from 7 variables over 12 timesteps [0.16s 61MB].
+cdo    selname: Processed 49152 values from 24 variables over 12 timesteps [0.02s 54MB].
+cdo    selname: Processed 49152 values from 10 variables over 12 timesteps [0.02s 52MB].
+2024-03-19 11:11:09 started running block 1411
+2024-03-19 11:11:09 started running batch 1 of block 1411
+slurmstepd-tintin: error: *** JOB 1172498 ON tintin CANCELLED AT 2024-03-19T11:11:48 ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.31.s  00007FA87E761140  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000490836  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000048F979  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004436D8  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004358DE  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042B669  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004041DD  Unknown               Unknown  Unknown
+libc-2.31.so       00007FA87E59DD0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004040FA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.31.s  00007F72A1C7A140  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000406055  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000453BD1  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004358D4  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042B669  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004041DD  Unknown               Unknown  Unknown
+libc-2.31.so       00007F72A1AB6D0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004040FA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.31.s  00007F7B68EB2140  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000406358  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000453BBB  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004358D4  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042B669  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004041DD  Unknown               Unknown  Unknown
+libc-2.31.so       00007F7B68CEED0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004040FA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.31.s  00007F85A1338140  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004699E6  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000441E18  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000043B5A3  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000435DD7  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042B669  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004041DD  Unknown               Unknown  Unknown
+libc-2.31.so       00007F85A1174D0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004040FA  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.31.s  00007F5920A06140  Unknown               Unknown  Unknown
+most_plasim_t21_l  0000000000490C96  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000048F979  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004436D8  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004358DE  Unknown               Unknown  Unknown
+most_plasim_t21_l  000000000042B669  Unknown               Unknown  Unknown
+most_plasim_t21_l  00000000004041DD  Unknown               Unknown  Unknown
+libc-2.31.so       00007F5920842D0A  __libc_start_main     Unknown  Unknown
+most_plasim_t21_l  00000000004040FA  Unknown               Unknown  Unknown
