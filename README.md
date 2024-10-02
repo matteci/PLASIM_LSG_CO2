@@ -16,6 +16,8 @@ This model is a research model used in Meteorology and Earth Sciences.
 You need knowledge in Meteorology, Climatology and skills in Linux, C and FORTRAN
 for running the model and interpreting the results.
 
+Please be aware that the name folder was "PLASIM-LD", thus paths have to be changed if necessary
+
 Please start reading the manual located in:
 plasim/doc for the Planet Simulator
 Then have a look at the README file for configuration and setup.
